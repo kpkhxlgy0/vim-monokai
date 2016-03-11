@@ -1,11 +1,9 @@
 " Vim color file
 "
-" Author: Tomas Restrepo <tomas@winterdom.com>
-" https://github.com/tomasr/monokai
+" Author: XiaoLong Han <kpkhxlgy0@163.com>
+" https://github.com/kpkhxlgy0/monokai
 "
 " Note: Based on the Monokai theme for TextMate
-" by Wimer Hazenberg and its darker variant
-" by Hamish Stuart Macpherson
 "
 
 hi clear
