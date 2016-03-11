@@ -1,7 +1,7 @@
 " Vim color file
 "
 " Author: XiaoLong Han <kpkhxlgy0@163.com>
-" https://github.com/kpkhxlgy0/monokai
+" https://github.com/kpkhxlgy0/vim-monokai
 "
 " Note: Based on the Monokai theme for TextMate
 "
